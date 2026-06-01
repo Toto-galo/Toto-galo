@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Tobias 👋</h1>
-<h3 align="center">Desarrollador Web | Estudiante de Ingeniería en Sistemas</h3>
+<h3 align="center">Desarrollador Web junior| Estudiante de Ingeniería en Sistemas</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Escribiendo+código+limpio;Construyendo+soluciones+web;Apasionado+por+la+tecnología" alt="Typing SVG" />
@@ -15,7 +15,6 @@
 
 - 🎓 Preparándome para el ciclo lectivo de **Ingeniería en Sistemas en la UTN FRC**.
 - 🚀 Co-desarrollando **soluciones web y presencia digital** para negocios locales en equipo.
-- 🌲 Construyendo el ecosistema tecnológico para **Pura Mosqueta**, un emprendimiento propio de productos artesanales patagónicos.
 - 💻 Explorando constantemente arquitecturas de hardware y optimización de configuraciones de PC.
 - ⚡ **Fun fact:** Las mejores sesiones de código fluyen combinando buena lógica, linter en verde y unos mates siempre a mano.
 
@@ -54,10 +53,10 @@
 
 <p align="center">
   <!-- Aquí puedes poner los enlaces a tus redes. Reemplaza los href con tus links reales -->
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:tobiasagalovar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/tobias-alejandro-galovar-aguilera-16740039b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
